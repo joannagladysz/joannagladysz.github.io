@@ -8,7 +8,7 @@
 
 - type: email
   icon: "fas fa-envelope"
-  url: "joannagladysz@outlook.com
+  url: 'joannagladysz@outlook.com'
   noblank: true # open link in current tab
 
 - type: rss
