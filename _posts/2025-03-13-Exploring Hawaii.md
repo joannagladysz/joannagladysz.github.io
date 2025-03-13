@@ -13,12 +13,14 @@ Well, yes, Hawaii is a tropical state island consisting of 137 smaller volcanic 
 
 •	As of 2024, Hawaii’s **population** is estimated at around **1,446,146**[^2]\
 •	As of 2023, their median household **income** is **$98,317**[^2]\
-•	They have the 4th longest ocean **coastline** in the U.S., measuring around **1,210** kilometres (750 miles)[^3]\
+•	They have the 4th longest ocean **coastline** in the U.S., measuring around **1,210** kilometres (750 miles)[^3]
 
 **Reference**
 
-[Dataset source: https://insideairbnb.com/get-the-data](https://insideairbnb.com/get-the-data/) \
-[^1]Kauaʻi - Photo by Braden Jarvis on Unsplash https://unsplash.com/@jarvisphoto
+[Dataset source: https://insideairbnb.com/get-the-data](https://insideairbnb.com/get-the-data/)\
 
-[^2] [U.S. Census Bureau: https://www.census.gov/quickfacts/fact/table/HI/PST045224](https://www.census.gov/quickfacts/fact/table/HI/PST045224)
+[^1] [Kauaʻi - Photo by Braden Jarvis on Unsplash https://unsplash.com/@jarvisphoto](https://unsplash.com/@jarvisphoto)
+
+[^2] [U.S. Census Bureau: https://www.census.gov/quickfacts/fact/table/HI/PST045224](https://www.census.gov/quickfacts/fact/table/HI/PST045224)\
+
 [^3] [Table – Method 1 (CRS) https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline)
