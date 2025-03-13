@@ -5,7 +5,7 @@ categories: [Descriptive_Analysis, Projects]
 tags: [powerbi, power query, airbnb, data cleaning]    # TAG names should always be lowercase
 image:
   path: /assets/img/hawaiipost1.jpg
-  alt: Kauaʻi - Photo by Braden Jarvis on Unsplash (https://unsplash.com/@jarvisphoto)[^1]
+  alt: Kauaʻi - Photo by Braden Jarvis on Unsplash[^1]
 ---
 *In this report, I will explore an Airbnb listings dataset to understand the short-term homestays market in Hawaii. To achieve this, I will apply a set of descriptive statistics and communicate my findings with data visualisations.*\
 Recently, Hawaii has caught my attention and become my number one place to visit for a lifetime adventure, which I am yet to fulfil.  As a 90s kid, I learned about Hawaii from the animated Disney movie Lilo & Stitch, released in 2002. However, back then, it only seemed like a fictional place because it looked too good to be true.\
@@ -14,6 +14,26 @@ Well, yes, Hawaii is a tropical state island consisting of 137 smaller volcanic 
 •	As of 2024, Hawaii’s **population** is estimated at around **1,446,146**[^2]\
 •	As of 2023, their median household **income** is **$98,317**[^2]\
 •	They have the 4th longest ocean **coastline** in the U.S., measuring around **1,210** kilometres (750 miles)[^3]
+
+**Objectives**
+Now, let’s dive into my dataset exploration, where I will be looking at different areas of Hawaii, property types, reviews and prices. The purpose of this is to understand the short-term lettings accommodation market and draw some conclusions which will help to plan my trip. Here are some points I am going to cover:
+•	Neighbourhoods per island diagram
+•	Number of listings per island part
+•	Property type popularity
+•	Price range (min and max) per island part
+•	Map of listings
+•	Which property type is more likely to have 2 bathrooms per 2 bedrooms (when two couples want to share an apartment but want to have two separate bathrooms)
+•	Does a higher price correlate with a higher rating
+
+**The Dataset**
+The dataset contains listing details obtained from web scraping on the Airbnb website dated 12th December 2024.
+columns	75
+rows	35,493 
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 **Reference**
 
