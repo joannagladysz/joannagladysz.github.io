@@ -4,7 +4,7 @@ date: 2025-03-13 12:40:00
 categories: [Descriptive_Analysis, Projects]
 tags: [powerbi, power query, airbnb, data cleaning]    # TAG names should always be lowercase
 image:
-  path: hawaiipost1.jpg
+  path: /_posts/hawaiipost1.jpg
   alt: Kauaʻi - Photo by Braden Jarvis on Unsplash https://unsplash.com/@jarvisphoto [^3]
 ---
 *In this report, I will explore an Airbnb listings dataset to understand the short-term homestays market in Hawaii. To achieve this, I will apply a set of descriptive statistics and communicate my findings with data visualisations.*\
