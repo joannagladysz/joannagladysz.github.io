@@ -26,14 +26,28 @@ Now, let’s dive into my dataset exploration, where I will be looking at differ
 •	Does a higher price correlate with a higher rating
 
 **The Dataset**
-The dataset contains listing details obtained from web scraping on the Airbnb website dated 12th December 2024.
-columns	75
-rows	35,493 
+The dataset contains listing details obtained from web scraping on the Airbnb website dated 12th December 2024. 
 
-| Syntax    | Description |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
+| columns    | 75       |
+| rows | 35,493       |
+
+Key information in the dataset includes:
+•	host details, e.g. name, host since date
+•	host performance/stats, e.g. total listings, response rate
+•	property details, e.g. bedrooms, bathrooms, price
+•	location data, e.g. latitude, longitude, area
+•	review scores, e.g. number of reviews, review scores
+
+**Data Transformation**
+Using the Power Query Editor in Power BI, I prepared my dataset by applying the following steps:
+1.	Remove unnecessary columns
+a.	Remove all URL columns
+b.	Description (long strings)
+2.	Handle missing values
+3.	Convert the data type of the price column to numeric
+4.	Split the bathrooms_text column into two to separate the numeric values from a string
+5.	Add an index column
+
 
 **Reference**
 
