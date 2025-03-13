@@ -16,16 +16,19 @@ Well, yes, Hawaii is a tropical state island consisting of 137 smaller volcanic 
 •	They have the 4th longest ocean **coastline** in the U.S., measuring around **1,210** kilometres (750 miles)[^3]
 
 **Objectives**\
+
 Now, let’s dive into my dataset exploration, where I will be looking at different areas of Hawaii, property types, reviews and prices. The purpose of this is to understand the short-term lettings accommodation market and draw some conclusions which will help to plan my trip. Here are some points I am going to cover:\
+
 •	Neighbourhoods per island diagram\
 •	Number of listings per island part\
 •	Property type popularity\
 •	Price range (min and max) per island part\
 •	Map of listings\
 •	Which property type is more likely to have 2 bathrooms per 2 bedrooms (when two couples want to share an apartment but want to have two separate bathrooms)\
-•	Does a higher price correlate with a higher rating\
+•	Does a higher price correlate with a higher rating
 
-**The Dataset**
+**The Dataset**\
+
 The dataset contains listing details obtained from web scraping on the Airbnb website dated 12th December 2024. 
 
 | columns    | 75       |
@@ -38,16 +41,29 @@ Key information in the dataset includes:
 •	location data, e.g. latitude, longitude, area
 •	review scores, e.g. number of reviews, review scores
 
-**Data Transformation**
+**Data Transformation**\
+
 Using the Power Query Editor in Power BI, I prepared my dataset by applying the following steps:
 1.	Remove unnecessary columns
-a.	Remove all URL columns
-b.	Description (long strings)
+  a.	Remove all URL columns
+  b.	Description (long strings)
 2.	Handle missing values
 3.	Convert the data type of the price column to numeric
 4.	Split the bathrooms_text column into two to separate the numeric values from a string
 5.	Add an index column
 
+![alt text](/assets/img/datatransformation.png)
+
+**Analysis**\
+
+This analysis is broken down into two interactive dashboards, but I will focus on each data visualisation one by one to demonstrate what I’ve done. Because I fancy patterns and structures, I started with a decomposition tree to learn about the listing location levels. 
+
+*Areas per island diagram*
+![alt text](/assets/img/decompositiontree.jpg)
+
+The chart illustrates the hierarchy of Hawaii’s areas by classifying them into levels, as well as groups and subgroups. What’s particularly useful about this chart is that you can easily switch between the areas of interest and use those areas as a slicer to dynamically change other charts and graphs within the dashboard.
+
+![alt text](/assets/img/honoluluexample.jpg)
 
 **Reference**
 
