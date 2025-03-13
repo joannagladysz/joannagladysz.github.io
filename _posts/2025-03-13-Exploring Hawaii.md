@@ -12,4 +12,4 @@ Well, yes, Hawaii is a tropical state island consisting of 137 smaller volcanic 
 •	As of 2023, their median household **income** is **$98,317** [^1a]\
 •	They have the 4th longest ocean **coastline** in the U.S., measuring around **1,210** kilometres (750 miles) [^2]\
 
-![Kauaʻi - Photo by Braden Jarvis on Unsplash](https://unsplash.com/@jarvisphoto) [^3](/assets/lib/post_img/hawaiipost.jpg){: width="700" height="400"}
+![Kauaʻi - Photo by Braden Jarvis on Unsplash](https://unsplash.com/@jarvisphoto) [^3](hawaiipost.jpg){: width="700" height="400"}
