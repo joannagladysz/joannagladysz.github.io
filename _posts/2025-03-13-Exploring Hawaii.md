@@ -3,6 +3,9 @@ title: Exploring the Airbnb 2024 market in Hawaii
 date: 2025-03-13 12:40:00
 categories: [Descriptive_Analysis, Projects]
 tags: [powerbi, power query, airbnb, data cleaning]    # TAG names should always be lowercase
+image:
+  path: hawaiipost1.jpg
+  alt: description
 ---
 *In this report, I will explore an Airbnb listings dataset to understand the short-term homestays market in Hawaii. To achieve this, I will apply a set of descriptive statistics and communicate my findings with data visualisations.*\
 Recently, Hawaii has caught my attention and become my number one place to visit for a lifetime adventure, which I am yet to fulfil.  As a 90s kid, I learned about Hawaii from the animated Disney movie Lilo & Stitch, released in 2002. However, back then, it only seemed like a fictional place because it looked too good to be true.\
