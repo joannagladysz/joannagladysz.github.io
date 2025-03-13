@@ -15,15 +15,15 @@ Well, yes, Hawaii is a tropical state island consisting of 137 smaller volcanic 
 •	As of 2023, their median household **income** is **$98,317**[^2]\
 •	They have the 4th longest ocean **coastline** in the U.S., measuring around **1,210** kilometres (750 miles)[^3]
 
-**Objectives**
-Now, let’s dive into my dataset exploration, where I will be looking at different areas of Hawaii, property types, reviews and prices. The purpose of this is to understand the short-term lettings accommodation market and draw some conclusions which will help to plan my trip. Here are some points I am going to cover:
-•	Neighbourhoods per island diagram
-•	Number of listings per island part
-•	Property type popularity
-•	Price range (min and max) per island part
-•	Map of listings
-•	Which property type is more likely to have 2 bathrooms per 2 bedrooms (when two couples want to share an apartment but want to have two separate bathrooms)
-•	Does a higher price correlate with a higher rating
+**Objectives**\
+Now, let’s dive into my dataset exploration, where I will be looking at different areas of Hawaii, property types, reviews and prices. The purpose of this is to understand the short-term lettings accommodation market and draw some conclusions which will help to plan my trip. Here are some points I am going to cover:\
+•	Neighbourhoods per island diagram\
+•	Number of listings per island part\
+•	Property type popularity\
+•	Price range (min and max) per island part\
+•	Map of listings\
+•	Which property type is more likely to have 2 bathrooms per 2 bedrooms (when two couples want to share an apartment but want to have two separate bathrooms)\
+•	Does a higher price correlate with a higher rating\
 
 **The Dataset**
 The dataset contains listing details obtained from web scraping on the Airbnb website dated 12th December 2024. 
