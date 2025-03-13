@@ -9,7 +9,7 @@ image:
 ---
 *In this report, I will explore an Airbnb listings dataset to understand the short-term homestays market in Hawaii. To achieve this, I will apply a set of descriptive statistics and communicate my findings with data visualisations.*
 
-Recently, Hawaii has caught my attention and become my number one place to visit for a lifetime adventure, which I am yet to fulfil.  As a 90s kid, I learned about Hawaii from the animated Disney movie Lilo & Stitch, released in 2002. However, back then, it only seemed like a fictional place because it looked too good to be true.
+Recently, Hawaii has caught my attention and become my number one place to visit for a lifetime adventure, which I am yet to fulfil.  As a 90s kid, I learned about Hawaii from the animated Disney movie *Lilo & Stitch*, released in 2002. However, back then, it only seemed like a fictional place because it looked too good to be true.
 
 Well, yes, Hawaii is a tropical state island consisting of 137 smaller volcanic islands in the middle of the Pacific Ocean. It has a beautiful coastline and enormous volcanic mountains, and one of them, Mauna Kea, is taller than Mount Everest (if measured from the base). I may have already sparked your interest in Hawaii a little bit, but just before I move on, here are some extra number facts:
 
@@ -49,10 +49,10 @@ Key information in the dataset includes:
 Using the Power Query Editor in Power BI, I prepared my dataset by applying the following steps:
 1.	Remove unnecessary columns\
   a.	Remove all URL columns\
-  b.	Description (long strings)\
-2.	Handle missing values\
-3.	Convert the data type of the price column to numeric\
-4.	Split the bathrooms_text column into two to separate the numeric values from a string\
+  b.	Description (long strings)
+2.	Handle missing values
+3.	Convert the data type of the price column to numeric
+4.	Split the bathrooms_text column into two to separate the numeric values from a string
 5.	Add an index column
 
 ![Power Query Screenshot](/assets/img/datatransformation.png)
@@ -70,6 +70,18 @@ The chart illustrates the hierarchy of Hawaii’s areas by classifying them into
 ![Honolulu Example](/assets/img/honoluluexample.jpg)
 
 For instance, by selecting the Koolaupoko area in Honolulu, you can view the maximum and minimum price per night in this location on the price gauges.
+
+![Min and Max Price Gauges](/assets/img/minmaxprice.jpg)
+
+For those who wish to visit the island and check where you’ll have a greater choice of accommodation, this bar chart summarises all the listings by island part.
+
+![Count of Listings car chart](/assets/img/countoflistings.jpg)
+
+To take a step further and explore my accommodation choices, this pie chart shows the top 5 available property types. If you’d like to know what the price range of your favourite property type is, simply click on the relevant slice and watch the price gauges change.
+
+![Top 5 property types pie chart](/assets/img/top5property.jpg)
+
+I hope you found this exploration insightful. Please let me know what you think in the comments, and feel free to share any ideas on what else I could do in this analysis to derive even more interesting facts. Thanks 😊
 
 **Reference**
 
