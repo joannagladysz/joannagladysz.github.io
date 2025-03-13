@@ -52,18 +52,21 @@ Using the Power Query Editor in Power BI, I prepared my dataset by applying the 
 4.	Split the bathrooms_text column into two to separate the numeric values from a string
 5.	Add an index column
 
-![alt text](/assets/img/datatransformation.png)
+![Power Query Screenshot](/assets/img/datatransformation.png)
 
 **Analysis**\
 
 This analysis is broken down into two interactive dashboards, but I will focus on each data visualisation one by one to demonstrate what I’ve done. Because I fancy patterns and structures, I started with a decomposition tree to learn about the listing location levels. 
 
 *Areas per island diagram*
-![alt text](/assets/img/decompositiontree.jpg)
+
+![Areas per island diagram](/assets/img/decompositiontree.jpg)
 
 The chart illustrates the hierarchy of Hawaii’s areas by classifying them into levels, as well as groups and subgroups. What’s particularly useful about this chart is that you can easily switch between the areas of interest and use those areas as a slicer to dynamically change other charts and graphs within the dashboard.
 
-![alt text](/assets/img/honoluluexample.jpg)
+![Honolulu Example](/assets/img/honoluluexample.jpg)
+
+For instance, by selecting the Koolaupoko area in Honolulu, you can view the maximum and minimum price per night in this location on the price gauges.
 
 **Reference**
 
