@@ -81,6 +81,14 @@ To take a step further and explore my accommodation choices, this pie chart show
 
 ![Top 5 property types pie chart](/assets/img/top5property.jpg)
 
+**Dashboard 1**
+
+![Dashboard 1](/assets/img/dashboard1.jpg)
+
+**Dashboard 2**
+
+![Dashboard 2](/assets/img/dashboard2.jpg)
+
 I hope you found this exploration insightful. Please let me know what you think in the comments, and feel free to share any ideas on what else I could do in this analysis to derive even more interesting facts. Thanks 😊
 
 **Reference**
