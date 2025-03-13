@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
 Hi, I’m Joanna – an experienced data management professional and aspiring Data Analyst.
 
 I’ve spent my career working with complex datasets, maintaining data integrity, and improving workflows to ensure efficiency and accuracy. In my current role as a Database Executive, I manage product information systems, collaborate across teams, and implement innovative solutions that streamline operations.
