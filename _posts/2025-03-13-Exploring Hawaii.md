@@ -17,10 +17,8 @@ Well, yes, Hawaii is a tropical state island consisting of 137 smaller volcanic 
 
 **Reference**
 
-[Dataset source:](https://insideairbnb.com/get-the-data/)\
-
+[Dataset source: https://insideairbnb.com/get-the-data](https://insideairbnb.com/get-the-data/) \
 [^1]Kauaʻi - Photo by Braden Jarvis on Unsplash https://unsplash.com/@jarvisphoto
 
-[^2]U.S. Census Bureau: https://www.census.gov/quickfacts/fact/table/HI/PST045224 
-[^3]Table – Method 1 (CRS) https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline 
-
+[^2] [U.S. Census Bureau: https://www.census.gov/quickfacts/fact/table/HI/PST045224](https://www.census.gov/quickfacts/fact/table/HI/PST045224)
+[^3] [Table – Method 1 (CRS) https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_coastline)
