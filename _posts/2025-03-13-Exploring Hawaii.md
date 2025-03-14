@@ -93,7 +93,7 @@ I hope you found this exploration insightful. Please let me know what you think 
 
 **Reference**
 
-[Dataset source: https://insideairbnb.com/get-the-data](https://insideairbnb.com/get-the-data/)\
+Dataset source:[https://insideairbnb.com/get-the-data](https://insideairbnb.com/get-the-data/)\
 
 [^1] [Kauaʻi - Photo by Braden Jarvis on Unsplash https://unsplash.com/@jarvisphoto](https://unsplash.com/@jarvisphoto)
 
