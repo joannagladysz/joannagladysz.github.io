@@ -1,7 +1,7 @@
 ---
 title: Exploring the Airbnb 2024 market in Hawaii
 date: 2025-03-13 12:40:00
-categories: [Descriptive_Analysis, Projects]
+categories: [Projects, Exploratory Data Analysis]
 tags: [powerbi, power query, airbnb, data cleaning]    # TAG names should always be lowercase
 image:
   path: /assets/img/hawaiipost1.jpg
